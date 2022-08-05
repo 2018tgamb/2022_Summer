@@ -85,7 +85,7 @@ body {
   color: var(--bs-body-color);
   text-align: var(--bs-body-text-align);
   /* background-color: var(--bs-body-bg); */
-  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: linear-gradient(-20deg, #f9e5ef 0%, #f7f8ee 100%);
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -11329,6 +11329,7 @@ p.lead {
   text-transform: uppercase;
   font-weight: 500;
   font-size: 1.5rem;
+  color: var(--bs-orange);
 }
 
 #sideNav {
